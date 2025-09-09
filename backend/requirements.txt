@@ -1,4 +1,6 @@
 fastapi
-databases[sqlite]
-sqlalchemy
 uvicorn
+sqlalchemy
+psycopg2-binary
+python-dotenv
+google-cloud-texttospeech
