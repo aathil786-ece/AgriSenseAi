@@ -1,0 +1,15 @@
+{
+  "name": "agrisense-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "scripts": {
+    "start": "parcel src/index.html --port 3000"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
+}
